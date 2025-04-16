@@ -10,3 +10,5 @@ logical program
 
 
 Prime Number
+
+2 5 7
